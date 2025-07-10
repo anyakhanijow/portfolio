@@ -50,3 +50,18 @@ Using quantmod, what was the annual compound return of this strategy as of the b
 
 The answer using uniroot would be 12.7% 
 
+## SQL Project 
+
+The company needed to gain deeper insights into customer purchasing behavior, product performance, and sales trends across different markets. Inconsistent product data and incomplete customer information made it difficult to analyze revenue drivers and optimize marketing and operational strategies.
+
+Using SQL, I performed a comprehensive data exploration and analysis on transactional invoice and product data. My analyses included:
+
+- Identifying data quality issues (missing product descriptions or null customer IDs)
+- Segmenting purchases by customer and country
+- Evaluating sales performance by product and time period
+- Analyzing revenue contributions from different stock codes
+- Understanding product returns and low-quantity order patterns
+
+
+
+
