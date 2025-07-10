@@ -24,6 +24,7 @@ Using SQL, I performed a comprehensive data exploration and analysis on transact
 - Analyzing revenue contributions from different stock codes
 - Understanding product returns and low-quantity order patterns
 
+'''sql
 <a href="https://github.com/anyakhanijow/portfolio/blob/main/IndivProjectAK.sql">SQL Code 
 
 Key Insights: 
