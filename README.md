@@ -24,7 +24,7 @@ Using SQL, I performed a comprehensive data exploration and analysis on transact
 - Analyzing revenue contributions from different stock codes
 - Understanding product returns and low-quantity order patterns
 
-'''sql
+
 <a href="https://github.com/anyakhanijow/portfolio/blob/main/IndivProjectAK.sql">SQL Code 
 
 Key Insights: 
@@ -37,7 +37,7 @@ Key Insights:
 
 
 
-### MIS Project
+### Management Info Systems Project
 
 The streaming industry has become increasingly competitive, with major providers vying for viewership through different content strategies. This project aimed to analyze the content catalogs of top streaming platforms to understand genre distribution, content types, ratings, and pricing value — ultimately informing strategic decisions for content development and customer retention.
 
