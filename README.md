@@ -79,6 +79,7 @@ As of the beginning of 2017, buy the top 4 ey's into $5000 equal-weighted portfo
 As of the beginning of 2018, buy the bottom 4 ey's into $5000 equally weighted portfolio (use the same ey's from 2017)
 Using quantmod, what was the annual compound return of this strategy as of the beginning of 2019?
 
+<a href="https://github.com/anyakhanijow/portfolio/blob/main/InvestmentModelingEX.R"> R Code 
 
 <img width="1411" height="843" alt="Screenshot 2025-07-10 at 3 31 55 PM" src="https://github.com/user-attachments/assets/04363d42-9763-4907-ae6e-861865403cad" />
 
