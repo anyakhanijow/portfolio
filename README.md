@@ -40,11 +40,13 @@ Netflix has more TV shows. According to a Business Insider article, Prime Video 
 Using Data.rds, Calculate the ey for: tsla, nvda, nio, f, nflx, aapl, msft, amd, dis, pep, ko
 
 As of the beginning of 2017, buy the top 4 ey's into $5000 equal-weighted portfolio
+
 As of the beginning of 2018, buy the bottom 4 ey's into $5000 equally weighted portfolio (use the same ey's from 2017)
 
 Using quantmod, what was the annual compound return of this strategy as of the beginning of 2019?
 
 
-<img width="837" height="368" alt="Screenshot 2025-07-10 at 2 43 16 PM" src="https://github.com/user-attachments/assets/b43dc4c3-f709-4594-bef8-c9a36750b594" />
+<img width="1411" height="843" alt="Screenshot 2025-07-10 at 3 31 55 PM" src="https://github.com/user-attachments/assets/04363d42-9763-4907-ae6e-861865403cad" />
 
+The answer using uniroot would be 12.7% 
 
