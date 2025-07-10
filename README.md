@@ -13,6 +13,7 @@ Investment Modeling with R, Enterprise Architecture, Time Series Modeling, Manag
 ## Projects 
 
 Excel dashboard creation to find managerial insights on how to improve streaming services
+<a href="https://github.com/anyakhanijow/portfolio/blob/main/Basic%20Dashboard%20Final.xlsx"> 
 
 
 
